@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    font: 14pt"Comic Sans MS";
+    padding: 10px 5%;
+    padding:10px 5%;
+    text-align: center;
+    background-color: #000000;
+   background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana;
+}
+ 
+    
+    
+}
+nav a{
+    text-decoration: none;
+}
+img{
+    width: 300px;
+    
+    
+}
+img:hover{
+    cursor: pointer;
+    opacity: 0.87;
+}
+
+#b1{
+    width: 100pt;
+}
+marquee {
+	font-size:50pt;
+	color:white;
+	position: absolute;
+	left:0;
+	top:360px;
+	display:none;
+	
+}
+h2{
+    color: white;
+}
